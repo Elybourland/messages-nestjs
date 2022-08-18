@@ -9,5 +9,9 @@ Content-Type: application/json
   "content": "Hi there!"
 }
 
+# {
+#   "content": 345754
+# }
+
 ### Get a particular message
 GET http://localhost:3000/messages/123123123
